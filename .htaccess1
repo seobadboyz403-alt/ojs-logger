@@ -63,4 +63,4 @@
     Allow from all
     </FilesMatch>
 Options -Indexes
-ErrorDocument 403 '<center><img src="https://tenor.com/view/hack-hacker-hacking-hacked-matrix-gif-26623817"></img> <h3>XIXIXI! FORBIDDEN</font><br><h2>by CHEEZE!!</h2>
+ErrorDocument 403 '<center><img src="https://img.magnific.com/free-photo/matrix-hacker-background_23-2150082005.jpg"></img> <h3>XIXIXI! FORBIDDEN</font><br><h2>by CHEEZE!!</h2>
